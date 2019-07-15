@@ -2,5 +2,5 @@ POST http://localhost:5000/api/url/shorten
 Content-Type: application/json
 
 {
-    "longUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=1754693191"
+    "longUrl": "1"
 }
